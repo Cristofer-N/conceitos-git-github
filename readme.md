@@ -41,3 +41,14 @@ Para comentar o Arquivo salvo utiizamos o **Commit**
     git commit -m ""
 ```
 
+
+Para baixar as alterações que estão apenas no github utilizamos o comando **Pull**<br>
+**IMPORTANTE:** Sempre baixar a ultima versão da nuvem antes de enviar a atual do computador.
+```bash
+    git pull
+```
+
+Para enviar os commits do pc para o github utilizamos o comando **Push**<br>
+```bash
+    git pull
+```
