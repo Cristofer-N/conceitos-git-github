@@ -52,3 +52,9 @@ Para enviar os commits do pc para o github utilizamos o comando **Push**<br>
 ```bash
     git push
 ```
+
+Para baixar o repositorio do github para o computador utilizamos o comando **Clone**<br>
+```bash
+    git clone < url_link_do_repositorio >
+```
+
