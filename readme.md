@@ -50,5 +50,5 @@ Para baixar as alterações que estão apenas no github utilizamos o comando **P
 
 Para enviar os commits do pc para o github utilizamos o comando **Push**<br>
 ```bash
-    git pull
+    git push
 ```
